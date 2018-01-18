@@ -40,7 +40,7 @@
 
 @fa[arrow-down]
 
-+++
++++?image=assets/image/data.jpg
 
 ### Data
 
@@ -50,7 +50,7 @@
     - Environmental data (flight plan, weather, ...) |
  - Is there already some data available? (EV for example?, ...) |
 
-+++
++++?image=assets/image/simulations.jpg
 
 ### Simulations
 
