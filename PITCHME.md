@@ -13,18 +13,17 @@
 
 @fa[arrow-down]
 
-+++
++++?image=assets/image/1.jpg
 
 ### Main objectives
 
-- Study if machine can learn a reactive strategy to control a dynamic system (an aircraft) |
+- Study if machine **can tself**learn a reactive strategy to control a dynamic system (an aircraft) |
   - following a well defined flight plan |
   - by observing a skilled operator |
-  - without a priori knowledge |
+  - (and then) without a priori knowledge |
   - in different operational conditions |
 
-
-+++
++++?image=assets/image/2bis.jpg
 
 ### Secondary objectives
 
@@ -47,14 +46,28 @@
 ### Data
 
  - Which data? |
-    - Observations |
-    - Inputs |
- - Is there already some data available? (EV?, ...)
+    - Aircraft system data |
+    - Operator inputs |
+    - Environmental data (flight plan, weather, ...) |
+ - Is there already some data available? (EV for example?, ...) |
 
 +++
 
 ### Simulations
 
+Simulations can be used to spped-up the learning process through exploration
+
  - Constraints:
-    - Log all required data (see previous slide) |
+    - Be able to Log all required data (see previous slide) |
     - Be able to launch scenario easily |
+    - Be able to launch zillions of simulations (possibly quicker than real time) |
+
+---?image=assets/image/question.jpg
+
+
+### Questions
+
+- Which is the data (variables) required for such a project |
+- Which is the data already usable (if it exists)? |
+- What will pilots accept to do (in the frame of such a research)? |
+
