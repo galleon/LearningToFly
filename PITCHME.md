@@ -17,10 +17,10 @@
 
 ### Main objectives
 
-- Study if a machine _can itself_ learn and adapt a reactive strategy to control a dynamic system (an aircraft) |
+- Study if a machine can itself learn and adapt a reactive strategy to control a dynamic system (an aircraft) |
   - following a well defined flight plan |
   - by observing a skilled operator |
-  - (and then) without a priori knowledge |
+  - (and improve) without a priori knowledge |
   - in different operational conditions |
 
 +++
@@ -30,7 +30,6 @@
 - Help define what is a good operator |
 - Automatically generate flight assessment report |
 - Benchmark existing A/P with new learnt strategy |
-
 
 ---?image=assets/image/maarten_deckers.jpg
 
