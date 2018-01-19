@@ -13,7 +13,7 @@
 
 @fa[arrow-down]
 
-+++?image=assets/image/1.jpg
++++
 
 ### Main objectives
 
@@ -23,7 +23,7 @@
   - (and then) without a priori knowledge |
   - in different operational conditions |
 
-+++?image=assets/image/2bis.jpg
++++
 
 ### Secondary objectives
 
@@ -40,7 +40,7 @@
 
 @fa[arrow-down]
 
-+++?image=assets/image/data.jpg
++++
 
 ### Data
 
@@ -50,7 +50,7 @@
     - Environmental data (flight plan, weather, ...) |
  - Is there already some data available? (EV for example?, ...) |
 
-+++?image=assets/image/simulations.jpg
++++
 
 ### Simulations
 
@@ -61,12 +61,11 @@ Simulations can be used to spped-up the learning process through exploration
     - Be able to launch scenario easily |
     - Be able to launch zillions of simulations (possibly quicker than real time) |
 
----?image=assets/image/question.jpg
-
+---
 
 ### Questions
 
 - Which is the data (variables) required for such a project |
 - Which is the data already usable (if it exists)? |
-- What will pilots accept to do (in the frame of such a research)? |
+- What will you (pilots) accept to do (in the frame of such a research)? |
 
